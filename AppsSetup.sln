@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.645
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AppsSetup", "AppsSetup\AppsSetup.vcxproj", "{BDD27178-1205-4D9C-8127-1F87AE9ED5CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		DebugForShowUI|Win32 = DebugForShowUI|Win32
+		Release|Win32 = Release|Win32
+		ReleaseForShowUI|Win32 = ReleaseForShowUI|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BDD27178-1205-4D9C-8127-1F87AE9ED5CD}.Debug|Win32.ActiveCfg = Debug|Win32
+		{BDD27178-1205-4D9C-8127-1F87AE9ED5CD}.Debug|Win32.Build.0 = Debug|Win32
+		{BDD27178-1205-4D9C-8127-1F87AE9ED5CD}.DebugForShowUI|Win32.ActiveCfg = DebugForShowUI|Win32
+		{BDD27178-1205-4D9C-8127-1F87AE9ED5CD}.DebugForShowUI|Win32.Build.0 = DebugForShowUI|Win32
+		{BDD27178-1205-4D9C-8127-1F87AE9ED5CD}.Release|Win32.ActiveCfg = Release|Win32
+		{BDD27178-1205-4D9C-8127-1F87AE9ED5CD}.Release|Win32.Build.0 = Release|Win32
+		{BDD27178-1205-4D9C-8127-1F87AE9ED5CD}.ReleaseForShowUI|Win32.ActiveCfg = ReleaseForShowUI|Win32
+		{BDD27178-1205-4D9C-8127-1F87AE9ED5CD}.ReleaseForShowUI|Win32.Build.0 = ReleaseForShowUI|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {913BCF5A-36CD-4FB9-9226-9E107B77C2E2}
+	EndGlobalSection
+EndGlobal
